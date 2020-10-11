@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 )
-
+/* just a comment added online github */
 type logWriter struct{}
 
 func main() {
